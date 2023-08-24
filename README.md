@@ -11,4 +11,4 @@ coder [mid]
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NickMGC&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-[![stats](https://github-readme-stats.vercel.app/api?username=ThePlank&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=NickMGC&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
