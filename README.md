@@ -2,6 +2,5 @@
 i code stuff
 
 <h1>skills</h1>
-artist
-
-coder [mid]
+artist [mid]
+coder [even midder]
