@@ -10,5 +10,5 @@ coder [even midder]
 <p>ill prolly open them soon but beware... there will be lots and lots of shitty code</p>
 
 
-<h1>I HAVE A WEBSITE NOW!!!h1>
+<h1>I HAVE A WEBSITE NOW!!!</h1>
 <h1>https://nickmgc.github.io</h1>
