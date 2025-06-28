@@ -1,12 +1,12 @@
-# hi
-i code stuff from time to time
+hi hello hiii
 <br/>
-mostly i just dont do much tho
-
-### skills
-artist [mid]
+i am a silly individual who does silly things
 <br/>
-coder [even midder]
+rn im mostly in the fnf community but after that ill be working on my friend's game incaved
+<br/>
+my hobbies are art, programming n sometimes music
+<br/>
+right now im coding on haxe, html, css and js (my main language is haxe if you havent figured that out)
 <br/>
 <br/>
 most of my repos are currently private
