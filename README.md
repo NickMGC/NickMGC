@@ -2,12 +2,13 @@ hi hello hiii
 <br/>
 i am a silly individual who does silly things
 <br/>
-rn im mostly in the fnf community but after that ill be working on my friend's game incaved
-<br/>
 <br/>
 my hobbies are art, programming n sometimes music
 <br/>
 right now im coding on haxe, html, css and js (my main language is haxe if you havent figured that out)
+<br/>
+<br/>
+rn im mostly in the fnf community but after that ill be working on my friend's game incaved
 <br/>
 <br/>
 most of my repos are currently private
