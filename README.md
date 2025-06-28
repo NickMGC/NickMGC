@@ -13,6 +13,7 @@ most of my repos are currently private
 <br/>
 ill prolly open them soon but beware... there will be lots and lots of shitty code
 <br/>
+<br/>
 
 [![stats](https://github-readme-stats.vercel.app/api?username=NickMGC&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
