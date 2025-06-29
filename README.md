@@ -18,11 +18,11 @@ ill prolly open them soon but beware... there will be lots and lots of shitty co
 <br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=NickMGC&theme=onedark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NickMGC&theme=onedark" />
 </a>
 <br/>
 <a href="https://github.com/NickMGC/TiledSprite">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=nickmgc&repo=tailedsprite&theme=onedark"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickmgc&repo=tailedsprite&theme=onedark"/>
 </a>
 i will be updating this to my latest repos
 <br/>
