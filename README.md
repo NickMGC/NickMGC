@@ -22,7 +22,7 @@ ill prolly open them soon but beware... there will be lots and lots of shitty co
 </a>
 
 <a href="https://github.com/NickMGC/TiledSprite">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=nickmgc&repo=tiledsprite&theme=onedark"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=nickmgc&repo=tailedsprite&theme=onedark"/>
 </a>
 i will be updating this to my latest repos
 <br/>
