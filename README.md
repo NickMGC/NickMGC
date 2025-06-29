@@ -21,8 +21,8 @@ ill prolly open them soon but beware... there will be lots and lots of shitty co
   <img src="https://github-readme-stats.vercel.app/api?username=NickMGC&theme=onedark" />
 </a>
 <br/>
-<a href="https://github.com/NickMGC/optimizationThinamajibs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickmgc&repo=optimizationThinamajibs&theme=onedark"/>
+<a href="https://github.com/NickMGC/optimizationThingymajibs">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickmgc&repo=optimizationThingymajibs&theme=onedark"/>
 </a>
 i will be updating this to my latest repos
 <br/>
