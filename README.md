@@ -16,6 +16,8 @@ most of my repos are currently private
 ill prolly open them soon but beware... there will be lots and lots of shitty code
 <br/>
 <br/>
+also its `NickNGC`, but that was already taken so its `NickMGC`, just use `NickNGC` when you can use a display name pls
+<br/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=NickMGC&theme=onedark" />
