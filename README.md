@@ -23,10 +23,9 @@ also its `NickNGC`, but that was already taken so its `NickMGC`, just use `NickN
   <img src="https://github-readme-stats.vercel.app/api?username=NickMGC&theme=onedark" />
 </a>
 <br/>
-<a href="https://github.com/NickMGC/optimizationThingymajibs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickmgc&repo=optimizationThingymajibs&theme=onedark"/>
+<a href="https://github.com/NickMGC/FNF-Quazar-Engine">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nickmgc&repo=FNF-Quazar-Engine&theme=onedark"/>
 </a>
-i will be updating this to my latest repos
 <br/>
 <br/>
 <a href="https://nickmgc.github.io">
